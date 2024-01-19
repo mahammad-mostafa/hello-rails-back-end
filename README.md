@@ -31,7 +31,8 @@ This repository is about a simple greeting text in a single page.
 It includes the backend section of the app where it uses `Rails` with `API` configuration.
 It also connects with `PostgreSQL` database & follows the `GitFlow` workflow.
 Linter used for `Ruby` is `Rubocop`.
-Frontend section is located [here](https://github.com/mahammad-mostafa/hello-react-front-end).
+<br/>
+Frontend section is located in this [repository](https://github.com/mahammad-mostafa/hello-react-front-end).
 
 📌 **Tech Stack:**
 - Backend language is `Ruby`
